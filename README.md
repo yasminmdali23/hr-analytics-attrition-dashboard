@@ -19,6 +19,8 @@ A human resources data visualization dashboard built in Power BI to evaluate wor
 ## 🛠️ Tools & Technologies
 * **Power BI Desktop:** Data transformation, Matrix Visuals, Progress Ring indicators, and HR KPI Dashboard Architecture.
 
+![HR Dashboard](Screenshot 2026-05-21-10-11-12.jpg)
+
 ## 📂 How to Use
 1. Download the `.pbix` file.
 2. Launch **Power BI Desktop**.
